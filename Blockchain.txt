@@ -1,0 +1,32 @@
+		BLOCKCHAIN ESSENTIALS DAY1 ASSIGNMENT
+		-------------------------------------
+1.What is Yoyr Understanding of Blockchain?
+
+Ans: It is based on Cryptography and Distributed database.Blockchain is a system of recording information in a way that makes it difficult or impossible to change, hack, or cheat the system.
+
+2. What is the core problem Blockchain trying to solve?
+
+Ans: Hacking is Not possible
+     Secure
+     Decentralization
+
+3. What are the few features which Blockchain will give you?
+
+Ans:Verifiable
+    Tamper proof
+    immutable
+    unchangable
+
+4.What all things does a Block Contain?
+
+Ans: Block Number
+     Previous Finger print
+     Current Fingerr print
+     Block Data
+     Mining number
+5.How is the verifiability of Blockchain is been attained ?
+
+Ans:It can be attained by the formula
+		________________________________________________________________________________
+	       |Previous Block Finger print + Data in Current Block = Current Block Finger print|
+	       |________________________________________________________________________________|
